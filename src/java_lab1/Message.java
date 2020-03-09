@@ -14,6 +14,7 @@ public class Message
     public static void main(String a[])
     {
 	   System.out.println("java");
+            System.out.println("java");
     }
 	  
 }
