@@ -16,6 +16,6 @@ public class Bitwisecomplement {
      System.out.println("x =" + x);
      int y = ~x;
      System.out.println("y = " + y);
-     System.out.println("y = " + y);
+    
  }
 }
