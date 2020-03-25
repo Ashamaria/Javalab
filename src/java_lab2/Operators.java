@@ -13,7 +13,7 @@ public class Operators
 {
    public static void main(String a[])
    {       
-     int x = 10,y = 20;
+     int x = 11,y = 20;
      System.out.println("x =" + x);
      System.out.println("y =" + y);
      System.out.println("INCREMENT OPERATORS ARE ");
